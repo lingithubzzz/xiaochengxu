@@ -1,0 +1,16 @@
+
+<view class='my_item' >
+ <text>当前积分：150{{points}}</text>
+</view>
+
+ <view class='my_item' >
+ <text>会员等级：VIP3{{grade}}</text>
+</view>
+
+ <view class='my_item' >
+ <text>消费总计：1560{{recard}}</text>
+</view>
+
+<view class='my_item' >
+ <text>享受折扣：8.5{{discount}}折</text>
+</view>
